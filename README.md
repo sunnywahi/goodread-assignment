@@ -84,5 +84,5 @@ npm install react-router-bootstrap
 
 ## Resources
 
-https://flask.palletsprojects.com/en/2.0.x/
-https://material-table.com/#/
+* https://flask.palletsprojects.com/en/2.0.x/
+* https://material-table.com/#/
