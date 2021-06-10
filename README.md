@@ -1,6 +1,6 @@
 # goodread-assignment
 
-Project reads a huge data set of good-reads, which us present in backend/data folder.
+Project reads a huge data set of good-reads, which is present in backend/data folder.
 
 * backend module- exposes python-rest-api backend made using flask and exposes the end point at ```http://localhost:8090/```, which all is controlled in ```.flaskenv```
     * This can also be run running flask_run.py ```main``` method by Intellj or any studio.
